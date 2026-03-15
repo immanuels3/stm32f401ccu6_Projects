@@ -1,2 +1,0 @@
-# altera_max_ii_EPM240T100C5_projects
-altera_max_ii_EPM240T100C5_projects

@@ -1,4 +1,0 @@
-set tool_name "ModelSim-Altera (Verilog)"
-set corner_file_list {
-	{{"Slow Model"} {PWM_LED_Dimming.vo PWM_LED_Dimming_v.sdo}}
-}
